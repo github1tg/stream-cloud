@@ -2,7 +2,7 @@
   "name": "Telegram Streamer File",
   "description": "Robot to convert files to direct links, hosting files on Telegram servers, unlimited and without restrictions",
   "website": "https://t.me/s/userlandapp",
-  "repository": "https://github.com/musa-42/stream-cloud",
+  "repository": "https://github.com/github1tg/stream-cloud",
   "logo": "https://newdlstar.herokuapp.com/44c01",
   "env": {
     "api_id": {
