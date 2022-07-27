@@ -1,4 +1,4 @@
-from telethon import events,functions,errors
+
 from telethon.sync import TelegramClient
 from telethon.sessions import StringSession
 from config import Config
